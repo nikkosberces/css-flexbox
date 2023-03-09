@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu-content {
+  height: 200px;
+  background-color: pink;
+  display: flex;
+  justify-content: space-between;
+}
+
+.row-1 {
+  color: blue;
+  background-color: white;
+  font-weight: bold;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-2 {
+  color: blue;
+  background-color: white;
+  font-weight: bold;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  width: 100px;
+  height: 75px;
+  color: red;
+  background-color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
